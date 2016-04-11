@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="searchtests.SearchTests-20151015102609" tests="2" time="5.878">
+	<testcase classname="searchtests.SearchTests" name="test_search_by_category" time="2.963"/>
+	<testcase classname="searchtests.SearchTests" name="test_search_by_name" time="2.915"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

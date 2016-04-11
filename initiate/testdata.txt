@@ -1,0 +1,4 @@
+CategoryorProduct,NumberOfProducts
+phones,2
+music,5
+iphone5s,0

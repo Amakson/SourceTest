@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="homepagetests.HomePageTest-20151015102609" tests="7" time="2.204">
+	<testcase classname="homepagetests.HomePageTest" name="test_account_links" time="0.180"/>
+	<testcase classname="homepagetests.HomePageTest" name="test_count_of_promo_banners_images" time="0.080"/>
+	<testcase classname="homepagetests.HomePageTest" name="test_my_account_link_is_displayed" time="0.090"/>
+	<testcase classname="homepagetests.HomePageTest" name="test_search_button_enabled" time="0.080"/>
+	<testcase classname="homepagetests.HomePageTest" name="test_search_text_field_max_length" time="0.090"/>
+	<testcase classname="homepagetests.HomePageTest" name="test_shopping_cart_status" time="0.470"/>
+	<testcase classname="homepagetests.HomePageTest" name="test_vip_promo" time="1.214"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
